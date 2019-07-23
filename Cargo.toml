@@ -1,0 +1,7 @@
+[package]
+name = "eth_gas_history"
+version = "0.1.0"
+authors = ["Boris K <boris@hcrcsolutions.com>"]
+edition = "2018"
+
+[dependencies]
